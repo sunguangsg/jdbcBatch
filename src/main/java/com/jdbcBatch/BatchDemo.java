@@ -5,7 +5,10 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+/**
+ * 2017-08-07
+ * 
+ * */
 public class BatchDemo {
 	
 	private static Connection getConn() {
